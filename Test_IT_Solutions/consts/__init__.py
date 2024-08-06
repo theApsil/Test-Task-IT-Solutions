@@ -1,0 +1,6 @@
+from constants import FUEL_CHOICES, TRANSMISSION_CHOICES
+
+__all__ = [
+    "FUEL_CHOICES",
+    "TRANSMISSION_CHOICES",
+]
